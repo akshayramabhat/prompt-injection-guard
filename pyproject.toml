@@ -19,6 +19,10 @@ classifiers = [
   "Topic :: Security",
 ]
 
+[project.urls]
+Homepage = "https://github.com/akshayramabhat/prompt-injection-guard"
+Issues = "https://github.com/akshayramabhat/prompt-injection-guard/issues"
+
 [tool.setuptools.packages.find]
 where = ["src"]
 
